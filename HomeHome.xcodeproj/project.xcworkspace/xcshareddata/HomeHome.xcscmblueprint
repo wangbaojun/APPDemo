@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++1892" : {
+
+    },
+    "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++3549" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++1892" : 0,
+    "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++3549" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D0781AEF-3A2A-40BE-AF66-A8FF8BF6F919",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++1892" : "HomeHome%202\/HomeHome\/Libs\/Other\/HyImagePicker\/",
+    "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++3549" : "%E5%AE%B6%E9%95%BF%E7%AB%AF%E9%87%8D%E6%9E%84\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HomeHome",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HomeHome.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/121.41.37.208:9999",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++1892"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/121.41.37.208:9999",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dc69dd35-be3b-4f8c-9569-e0ef4b106b86++3549"
+    }
+  ]
+}
